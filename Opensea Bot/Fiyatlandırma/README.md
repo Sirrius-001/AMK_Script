@@ -5,7 +5,7 @@ Değişkenler başlığı altında ki `Fiyat` ve `Sözleşme Adresi` kısmını 
 
 # Kullanımı
 
-Başlangıç numarasını ve `21.` adım da ki tekrar sayısını ayarlayın resimleri güncelleme yaptıysanız artık hazırsınız başlatabilirsiniz.
+Başlangıç numarasını ve `21` adım da ki tekrar sayısını ayarlayın resimleri güncelleme yaptıysanız artık hazırsınız başlatabilirsiniz.
 
 # Link
 
