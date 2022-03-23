@@ -1,6 +1,6 @@
 # Welcome to Sirrius Script 🔥
 
-![](https://www.canva.com/design/DAEW4BcyNXA/BRl15PSnXbseWSuc_YvFFg/watch?utm_content=DAEW4BcyNXA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![](https://media0.giphy.com/media/Fbi8P0yE3YF4J4zcl3/giphy.gif?cid=790b76113752a38959979a379164f23004951cdd787b7274&rid=giphy.gif&ct=g)
 
 
 [📺 YouTube](https://www.youtube.com/channel/UCEKm5HWa_NcVglsMKdMHQcQ)
