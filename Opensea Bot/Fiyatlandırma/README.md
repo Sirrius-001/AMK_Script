@@ -1,11 +1,10 @@
-# Bot'un Kurulumu🔥
+# Bot'un Kurulumu🔥 ve Kullanımı
 
 Değişkenler başlığı altında ki `Fiyat` ve `Sözleşme Adresi` kısmını düzenleyin.
     Herhangi bir yer de takılmaması için resimleri güncelleyin.
 
-# Kullanımı
-
-`Başlangıç numarasını` ve `21`. adım da ki tekrar sayısını ayarlayın ve resimleri güncelleme yaptıysanız artık hazırsınız başlatabilirsiniz.
+`21`. adım da ki tekrar sayısını ayarlayın ve resimleri güncelleme yaptıysanız artık hazırsınız başlatabilirsiniz.
+Her başlatma da Başlatma sırasını tekrar soracak şekilde ayarlandı.
 
 # Link
 
