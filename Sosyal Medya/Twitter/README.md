@@ -2,7 +2,7 @@
 
 ![](https://media3.giphy.com/media/Fbi8P0yE3YF4J4zcl3/giphy.gif?cid=790b7611539c1842ca3f362e517528059542d0948e3fc434&rid=giphy.gif&ct=g)
 
-Sayfanın en üstünde bulunan `Twitter`, `Twitter2`, `Mail`, `NFT_Top`, `NFT-Latest`, `Doodle Cats` link'leri kendi özel linklerinizle değiştirin.
+Sayfanın en üstünde bulunan `Twitter` `Twitter2` `Mail` `NFT_Top` `NFT-Latest` `Doodle Cats` link'leri kendi özel linklerinizle değiştirin.
  
 # Hata Gelmesi Durumunda ☠️
 
